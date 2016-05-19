@@ -1,1 +1,2 @@
 The first file
+The next string
