@@ -1,1 +1,4 @@
-¥–‰„@”‰•M]ÀĞ
+void main()
+{
+printf("A text");
+}
