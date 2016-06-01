@@ -1,1 +1,2 @@
 A text from file located in dir1
+new text
