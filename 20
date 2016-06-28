@@ -2,3 +2,4 @@
 1
 br5 octopus
 git diff-index
+git update-index
